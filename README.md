@@ -1,8 +1,22 @@
 # Rocket League New Friend Notificator
 
 This script gives sound notification when you have friend request.
+
 Notification file can be changed but file need to be wav format.
+
 Dual screen supported.
+
+# Important
+
+PNG file received while in game 1280x720 resolution. 
+
+Script may not work while the game is in other resolutions.
+
+You can replace with your PNG and needs little editing like this.
+
+
+![new_request](https://user-images.githubusercontent.com/54486031/161339863-17d7e247-c587-4300-9739-0073c193273a.PNG)
+
 
 # Usage
 
