@@ -22,4 +22,6 @@ You can replace with your PNG and needs little editing like this.
 
 Friend list button needs to be showing on your screen like this.
 
+Run script.
+
 ![pic1](https://user-images.githubusercontent.com/54486031/161338781-8cca5c54-7b63-45d5-bfed-cbc528b46ad9.PNG)
