@@ -20,7 +20,7 @@ You can replace with your PNG and needs little editing like this.
 
 # Usage
 
-Friend list button needs to be showing on your screen like this.
+Friend list button needs to be showing on your screen like this and keep it closed.
 
 Run script.
 
