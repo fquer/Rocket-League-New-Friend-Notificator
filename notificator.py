@@ -15,7 +15,11 @@ print("Ready !\nWaiting for invitations...")
 
 while True:
     sleep(1)
-    x = pyautogui.locateCenterOnScreen('new_request.PNG', confidence = 0.9)
+    try:
+        x = pyautogui.locateCenterOnScreen('new_request.PNG', confidence = 0.9)
+    except Exception as e:
+        print(e)
+        sleep(5)
     
     if x != None:
         try:
