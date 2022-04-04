@@ -1,4 +1,4 @@
-
+from time import sleep
 import pyautogui
 import winsound
 import os
@@ -14,7 +14,7 @@ os.system('cls')
 print("Ready !\nWaiting for invitations...")
 
 while True:
-    
+    sleep(1)
     x = pyautogui.locateCenterOnScreen('new_request.PNG', confidence = 0.9)
     
     if x != None:
